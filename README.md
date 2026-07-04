@@ -1,14 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1B5E20,100:00E676&text=Ayush%20Pandey&fontSize=52&fontAlignY=35&fontColor=ffffff&desc=Embedded%20Systems%20%7C%20AIoT%20%7C%20Machine%20Learning%20%7C%20Robotics&descAlignY=58&descColor=00E676&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:004D40,70:00C853,100:00E676&text=Ayush%20Pandey&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Embedded%20Systems%20•%20AIoT%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=55&descColor=ffffff"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=1000&color=00E676&center=true&vCenter=true&width=850&lines=Embedded+Systems+Engineer+⚡;AIoT+Developer+🌐;Machine+Learning+Explorer+🧠;Computer+Vision+with+OpenCV+%26+YOLO+👁️;Drone+Technology+%7C+Robotics+🤖;Building+Autonomous+Systems+🚀"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Embedded+Systems+Engineer+⚡;AIoT+Developer+🌐;Machine+Learning+Explorer+🧠;Computer+Vision+with+OpenCV+%26+YOLO+👁️;Drone+Technology+🚁;Building+Autonomous+Systems+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=aayuk003&label=Profile+Views&color=00E676&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aayuk003&style=for-the-badge&color=00E676"/>
 
 <img src="https://img.shields.io/github/followers/aayuk003?style=for-the-badge&color=00E676&labelColor=0D1117"/>
 
@@ -16,124 +14,147 @@
 
 ---
 
-# 💫 About Me
+# ⚡ Engineering Identity
 
-<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+```cpp
+class AyushPandey {
 
-I am an Electrical & Electronics Engineering student passionate about creating intelligent systems where **hardware meets AI**.
+public:
 
-I enjoy building real-world projects involving:
+string role =
+"Embedded Systems Engineer";
 
-⚡ Embedded Systems  
-🌐 IoT & AIoT  
-🤖 Robotics  
-🚁 Drone Technology  
-🧠 Machine Learning  
-👁️ Computer Vision  
-📡 Autonomous Systems  
+vector<string> specialization = {
 
-I focus on solving practical engineering problems through intelligent automation, sensor integration, and AI-powered systems.
+"Embedded Systems",
+"AIoT",
+"Machine Learning",
+"Computer Vision",
+"Drone Technology",
+"Robotics",
+"Autonomous Systems"
 
----
+};
 
-## 🚀 Current Focus
+vector<string> currentlyLearning = {
 
-```python
-class AyushPandey():
+"OpenCV",
+"Deep Learning",
+"Sensor Fusion",
+"Edge AI",
+"System Design"
 
-    education="B.Tech EEE @ KIET"
-    
-    interests=[
-        "Embedded Systems",
-        "AIoT",
-        "Machine Learning",
-        "Computer Vision",
-        "Drone Technology",
-        "Robotics",
-        "Autonomous Systems"
-    ]
+};
 
-    currently_learning=[
-        "OpenCV",
-        "Deep Learning",
-        "Sensor Fusion",
-        "System Design",
-        "Edge AI"
-    ]
+string philosophy =
+"Build technology that interacts with the real world.";
 
-    life_motto="Learn → Build → Improve → Repeat"
+};
 ```
 
 ---
 
-# ⚙️ Tech Arsenal
+# 🚀 About Me
 
-### Programming
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+⚡ B.Tech Electrical & Electronics Engineering Student
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+🤖 Passionate about Robotics & Intelligent Systems
 
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+🌐 Building AIoT Applications
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+🧠 Exploring Machine Learning & Computer Vision
 
----
+🚁 Working with Drone Technology
 
-### AI / ML / Computer Vision
+📡 Interested in Embedded Systems and Automation
 
-![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
-
-![Image Processing](https://img.shields.io/badge/Image_Processing-00BCD4?style=for-the-badge)
+💡 I enjoy transforming ideas into intelligent systems using AI + Hardware
 
 ---
 
-### Embedded + IoT + AIoT
+# 🛠 Tech Ecosystem
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+### Programming Languages
 
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi)
+<p align="left">
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql"/>
 
-![IoT](https://img.shields.io/badge/IoT-00BCD4?style=for-the-badge)
-
-![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge)
+</p>
 
 ---
 
-### Tools
+### Embedded Systems + AIoT
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+</p>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+STM32 • ARM • Embedded C • IoT • Sensors • UART • SPI • I2C • LoRa
+
+---
+
+### AI / Machine Learning / Computer Vision
+
+Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
+
+---
+
+### Tools & Environment
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
 
 ---
 
 # 🔥 Featured Projects
 
-### 🤖 Robodog
-Quadruped robotic system developed for INNOTECH-25.
+## 🤖 Robodog
 
-### 🚁 Drone Projects
-Built and tested drone systems including autonomy modules and sensor integration.
+Quadruped robotic system developed for INNOTECH 25.
 
-### 🗑️ Smart Waste Segregation
-Arduino + CNN-powered smart waste classification.
+---
 
-### 📈 Fraud Detection Pipeline
-Real-time fraud detection system using XGBoost.
+## 🚁 Autonomous Drone Systems
 
-### 👁️ Computer Vision Projects
-Object detection using YOLO and OpenCV.
+Built and tested drone systems including:
+
+- Frame assembly
+- Motor integration
+- Flight controller setup
+- Autonomous modules
+
+---
+
+## 🗑 Smart Waste Segregation
+
+Arduino + CNN-powered intelligent waste classification system.
+
+---
+
+## 👁️ AI Vision Systems
+
+Built computer vision projects using:
+
+- OpenCV
+- YOLO
+- Image Processing
+
+---
+
+## 📈 Fraud Detection Pipeline
+
+Real-time fraud detection using:
+
+- XGBoost
+- Machine Learning
 
 ---
 
@@ -141,11 +162,11 @@ Object detection using YOLO and OpenCV.
 
 🥇 Winner — Line Following & Maze Following @ IIT Delhi
 
-🥈 Drone Race Runner-Up @ Thapar University
+🥈 Runner Up — Drone Race @ Thapar University
 
-🏆 Department Winner — INNOTECH-25
+🏆 Department Winner — INNOTECH 25
 
-🥈 HackHeist Runner-Up
+🥈 Runner Up — HackHeist
 
 ---
 
@@ -153,11 +174,47 @@ Object detection using YOLO and OpenCV.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=radical"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=radical"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=radical"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aayuk003&theme=matrix&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aayuk003/aayuk003/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -168,17 +225,29 @@ Object detection using YOLO and OpenCV.
 <div align="center">
 
 <a href="mailto:ayushpandey1945@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/aayuk003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+---
+
+<div align="center">
+
+### ⚡ "Engineering Intelligence Into Machines"
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00E676,100:0D1117"/>
