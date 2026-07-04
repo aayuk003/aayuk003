@@ -224,7 +224,7 @@ Real-time fraud detection using:
 <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ayush-pandey-534b96324/)">
+<a href="https://www.linkedin.com/in/ayush-pandey-534b96324/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -232,12 +232,8 @@ Real-time fraud detection using:
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_DISCORD_LINK">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+
+
 
 </div>
