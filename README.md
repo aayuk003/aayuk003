@@ -220,40 +220,29 @@ Real-time fraud detection using:
 
 ---
 
+
 # 🌐 Connect With Me
 
 <div align="center">
 
 <a href="mailto:ayushpandey1945@gmail.com">
-<img width="260" src="https://img.shields.io/badge/📨%20Email%20Me-EA4335?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img width="260" src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://github.com/aayuk003">
-<img width="260" src="https://img.shields.io/badge/⚡%20GitHub-181717?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="YOUR_DISCORD_LINK">
-<img width="260" src="https://img.shields.io/badge/🎮%20Discord-5865F2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img width="260" src="https://img.shields.io/badge/🚀%20Portfolio-00C853?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-<br><br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing+⚡;Open+for+Collaboration+🤝;AIoT+•+ML+•+Embedded+Systems+•+Robotics"/>
 
 </div>
