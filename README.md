@@ -1,27 +1,108 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm Ayush Pandey, a B.Tech Electrical & Electronics Engineering student passionate about Robotics, Drone Technology, AI/ML, and Autonomous Systems.<br><br>🚀 Currently exploring:<br>- Machine Learning & Computer Vision<br>- Drone Development & Automation<br>- Robotics and Embedded Systems<br>- AI-powered real-world solutions<br><br>💡 I enjoy building systems where hardware meets software — from autonomous drones and robotic systems to AI-based applications.<br><br>🛠️ Tech Stack:<br>Python | C | MATLAB | SQL | Arduino | Raspberry Pi | STM32 | YOLO | Machine Learning | IoT<br><br>🏆 Highlights:<br>- 🥇 Winner in Line Following & Maze Following at IIT Delhi<br>- 🥈 Drone Race Runner-up at Thapar University<br>- 🤖 Built Robodog and Smart Waste Segregation projects<br>- 📊 Developed a real-time fraud detection pipeline using XGBoost<br><br>📚 Currently learning:<br>Deep Learning | Autonomous Systems | Computer Vision | AI Agents<br><br>⚡ Fun fact:<br>I love turning ideas into working prototypes and learning by building.
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a237e,100:00c853&height=180&section=header&text=Ayush%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20AI%2FML%20%7C%20Drone%20Technology&descAlignY=58&descColor=00c853&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7dU8v65J) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayu_p001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ayush Pandey) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Current-University79) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpandey1945@gmail.com) 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&height=45&lines=Robotics+Enthusiast+🤖;Drone+Developer+🚁;Machine+Learning+Explorer+🧠;Computer+Vision+with+YOLO+👁️;Building+Autonomous+Systems+⚡"/>
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aayuk003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aayuk003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aayuk003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayuk003&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=aayuk003&label=Profile+Views&color=00c853&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/aayuk003?label=Followers&style=for-the-badge&color=1565c0&labelColor=0d1117)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aayuk003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aayuk003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+- 🎓 B.Tech Electrical & Electronics Engineering Student @ KIET
+- 🤖 Passionate about Robotics, AI/ML, Embedded Systems & Drone Technology
+- 🚀 Building autonomous systems and real-world AI applications
+- 🧠 Exploring Machine Learning & Computer Vision
+- 💡 Interested in IoT, Sensor Fusion and Intelligent Robotics
+
+### Current Focus
+
+- Drone Development 🚁
+- Computer Vision with YOLO 👁️
+- Autonomous Systems ⚡
+- Embedded Systems & IoT 📡
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI/ML & Computer Vision
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+
+### Robotics & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Robodog
+Quadruped robotic system developed for INNOTECH 25.
+
+### 🚁 Drone Projects
+Worked on automation and autonomy modules.
+
+### 🗑️ Smart Waste Segregation
+Arduino + CNN based intelligent waste classification.
+
+### 📈 Fraud Detection System
+Real-time fraud detection pipeline using XGBoost.
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — Line Following & Maze Following @ IIT Delhi
+
+🥈 Drone Race Runner-up @ Thapar University
+
+🥇 Department Winner — INNOTECH 25 (Robodog)
+
+🥈 HackHeist Runner-up — Smart Waste Segregation
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ayushpandey1945@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aayuk003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,100:0d1117&height=100&section=footer"/>
+</div>
