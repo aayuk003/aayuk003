@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a237e,100:00c853&height=180&section=header&text=Ayush%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%7C%20AI%2FML%20%7C%20Drone%20Technology&descAlignY=58&descColor=00c853&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a237e,100:00c853&height=180&section=header&text=Ayush%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AIoT&descAlignY=58&descColor=00c853&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&height=45&lines=Robotics+Enthusiast+🤖;Drone+Developer+🚁;Machine+Learning+Explorer+🧠;Computer+Vision+with+YOLO+👁️;Building+Autonomous+Systems+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&height=45&lines=Embedded+Systems+Developer+⚡;IoT+Enthusiast+📡;AIoT+Explorer+🧠;Drone+Technology+🚁;Building+Smart+Autonomous+Systems+🤖"/>
 </a>
 
 <br>
@@ -18,58 +18,55 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Electrical & Electronics Engineering Student @ KIET
-- 🤖 Passionate about Robotics, AI/ML, Embedded Systems & Drone Technology
-- 🚀 Building autonomous systems and real-world AI applications
-- 🧠 Exploring Machine Learning & Computer Vision
-- 💡 Interested in IoT, Sensor Fusion and Intelligent Robotics
+- ⚡ Passionate about Embedded Systems, IoT and AIoT
+- 🤖 Building intelligent systems combining hardware + AI
+- 🚁 Interested in Drone Technology & Autonomous Systems
+- 🧠 Exploring Machine Learning and Edge Intelligence
 
 ### Current Focus
 
-- Drone Development 🚁
-- Computer Vision with YOLO 👁️
-- Autonomous Systems ⚡
-- Embedded Systems & IoT 📡
+- Embedded Systems ⚙️
+- Internet of Things (IoT) 📡
+- Artificial Intelligence of Things (AIoT) 🧠
+- Computer Vision 👁️
+- Autonomous Systems 🚀
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI/ML & Computer Vision
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-
-### Robotics & Embedded
+### Embedded & IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![IoT](https://img.shields.io/badge/IoT-00BCD4?style=flat-square)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square)
+
+### AI/ML
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-### 🤖 Robodog
-Quadruped robotic system developed for INNOTECH 25.
+🤖 Robodog — Quadruped robotic system
 
-### 🚁 Drone Projects
-Worked on automation and autonomy modules.
+🚁 Drone Projects — Automation and autonomy modules
 
-### 🗑️ Smart Waste Segregation
-Arduino + CNN based intelligent waste classification.
+🗑️ Smart Waste Segregation — Arduino + CNN model
 
-### 📈 Fraud Detection System
-Real-time fraud detection pipeline using XGBoost.
+📊 Fraud Detection System — XGBoost pipeline
 
 ---
 
@@ -91,10 +88,6 @@ Real-time fraud detection pipeline using XGBoost.
 
 <a href="mailto:ayushpandey1945@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aayuk003">
