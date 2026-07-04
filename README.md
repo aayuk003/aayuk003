@@ -225,39 +225,35 @@ Real-time fraud detection using:
 <div align="center">
 
 <a href="mailto:ayushpandey1945@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="260" src="https://img.shields.io/badge/📨%20Email%20Me-EA4335?style=for-the-badge&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img width="260" src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="https://github.com/aayuk003">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="260" src="https://img.shields.io/badge/⚡%20GitHub-181717?style=for-the-badge&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
-<a href="YOUR_DISCORD_INVITE_LINK">
-<img src="https://img.shields.io/badge/🎮%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="YOUR_DISCORD_LINK">
+<img width="260" src="https://img.shields.io/badge/🎮%20Discord-5865F2?style=for-the-badge&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+<br><br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/🚀%20Portfolio-00C853?style=for-the-badge"/>
+<img width="260" src="https://img.shields.io/badge/🚀%20Portfolio-00C853?style=for-the-badge&logoColor=white"/>
 </a>
 
-</div>
+<br><br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Open+for+Collaboration+🤝;Building+Intelligent+Systems+⚡;AIoT+•+Robotics+•+ML+•+Embedded+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00E676&center=true&vCenter=true&width=650&lines=Let's+Build+Something+Amazing+⚡;Open+for+Collaboration+🤝;AIoT+•+ML+•+Embedded+Systems+•+Robotics"/>
 
 </div>
