@@ -114,50 +114,6 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 
 ---
 
-# 🔥 Featured Projects
-
-## 🤖 Robodog
-
-Quadruped robotic system developed for INNOTECH 25.
-
----
-
-## 🚁 Autonomous Drone Systems
-
-Built and tested drone systems including:
-
-- Frame assembly
-- Motor integration
-- Flight controller setup
-- Autonomous modules
-
----
-
-## 🗑 Smart Waste Segregation
-
-Arduino + CNN-powered intelligent waste classification system.
-
----
-
-## 👁️ AI Vision Systems
-
-Built computer vision projects using:
-
-- OpenCV
-- YOLO
-- Image Processing
-
----
-
-## 📈 Fraud Detection Pipeline
-
-Real-time fraud detection using:
-
-- XGBoost
-- Machine Learning
-
----
-
 # 🏆 Achievements
 
 🥇 Winner — Line Following & Maze Following @ IIT Delhi
