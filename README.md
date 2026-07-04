@@ -174,17 +174,13 @@ Real-time fraud detection using:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
@@ -194,10 +190,9 @@ Real-time fraud detection using:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&theme=github-compact"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&theme=github-dark&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🏆 GitHub Trophies
