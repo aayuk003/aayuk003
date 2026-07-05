@@ -112,17 +112,6 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 
 </p>
 
----
-
-# 🏆 Achievements
-
-🥇 Winner — Line Following & Maze Following @ IIT Delhi
-
-🥈 Runner Up — Drone Race @ Thapar University
-
-🏆 Department Winner — INNOTECH 25
-
-🥈 Runner Up — HackHeist
 
 ---
 
@@ -151,27 +140,6 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 </div>
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aayuk003&theme=matrix&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aayuk003/aayuk003/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -187,9 +155,6 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 <a href="https://github.com/aayuk003">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-
-
 
 
 </div>
