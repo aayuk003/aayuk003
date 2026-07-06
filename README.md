@@ -119,7 +119,7 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
 
