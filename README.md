@@ -125,7 +125,7 @@ Machine Learning • OpenCV • YOLO • Image Processing • CNN • XGBoost
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 
 </div>
 
