@@ -126,33 +126,49 @@
 
 
 
----
+# 📊 GitHub Analytics Dashboard
 
-## 📊 GitHub Analytics
-
-<div align="center">
+<p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
-<br><br>
+</p>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
+<p align="center">
 
-</div>
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayuk003&theme=github_dark"/>
 
+</p>
 
+<p align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayuk003&theme=github_dark"/>
 
-## 📊 GitHub Contribution Graph
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayuk003&theme=github_dark"/>
 
-<div align="center">
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true"/>
+<p align="center">
 
-</div>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aayuk003&theme=github_dark"/>
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aayuk003&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
 
 
 # 💻 Favorite Technologies
