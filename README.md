@@ -128,19 +128,19 @@
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aayuk003&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayuk003&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
-
----
 
 
 
