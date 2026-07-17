@@ -47,17 +47,6 @@
 
 ---
 
-### 🎯 Current Focus
-
-- Embedded Systems
-- Edge AI
-- Robotics
-- Computer Vision
-- AIoT Applications
-- Autonomous Systems
-- Sensor Fusion
-- PCB Design
-
 </td>
 
 <td width="40%" align="center">
@@ -112,6 +101,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio)
+
 ---
 
 
