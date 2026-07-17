@@ -78,32 +78,47 @@
 
 ## ⚙️ Embedded Systems
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
-![ARM](https://img.shields.io/badge/ARM-Cortex-blue?style=flat-square)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-009688?style=flat-square)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
-![LoRa](https://img.shields.io/badge/LoRa-1E88E5?style=flat-square)
+<p align="center">
 
-## 🤖 AI & ML
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARM-Cortex-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FreeRTOS-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRa-1E88E5?style=for-the-badge"/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio)
+</p>
 
 ---
 
+## 🤖 AI & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio"/>
+
+</p>
+
+---
 
 # 🚀 Featured Technologies
 
