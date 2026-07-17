@@ -143,16 +143,15 @@
 ---
 
 
-# 📈 Contribution Activity
+
+
+## 📊 GitHub Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aayuk003&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true"/>
 
 </div>
-
----
-
 
 
 
