@@ -33,8 +33,6 @@
 
 ⚡ Embedded Systems Engineer
 
-🤖 Robotics Enthusiast
-
 🌐 AIoT Developer
 
 🧠 Machine Learning Explorer
