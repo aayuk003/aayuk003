@@ -178,7 +178,13 @@
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayuk003&theme=chartreuse-dark&hide_border=true"/>
+<div align="center">
 
+## ⚡ BUILDING INTELLIGENT MACHINES THAT CAN SEE • THINK • ACT
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:050816,50:6A00FF,100:00E5FF"/>
+
+</div>
 </p>
 
 ---
