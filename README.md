@@ -135,8 +135,56 @@
 <img src="https://img.shields.io/badge/IoT-Smart%20Systems-success?style=for-the-badge"/>
 
 </p>
+## 🤖 Agentic AI Experience
 
+### 🌍 International Internship – AI Agents & Emerging Technologies
 
+**Organization:** KIET Group of Institutions (Department of Electrical & Electronics Engineering)  
+**In Collaboration With:** EST Global Inc., USA  
+**Duration:** 23 June 2025 – 26 July 2025 (5 Weeks)
+
+Successfully completed a **5-week International Internship on AI Agents & Emerging Technologies**, where I gained practical experience in designing, developing, and deploying intelligent AI agents capable of autonomous reasoning, planning, and task execution.
+
+### 🚀 Skills & Technologies Explored
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Large Language Models (LLMs)
+- 🔗 Retrieval-Augmented Generation (RAG)
+- 🛠️ LangChain & AI Agent Frameworks
+- ⚡ Groq API Integration
+- 🧩 Prompt Engineering
+- 🌐 API Integration & Tool Calling
+- 📄 Document Processing & Knowledge Retrieval
+- 💬 Conversational AI
+- 🐍 Python
+- 🗄️ Vector Databases
+- 📊 AI Workflow Automation
+
+### 💡 Hands-on Experience
+
+- Developed AI-powered automation workflows.
+- Built intelligent email reply and customer support agents.
+- Created Retrieval-Augmented Generation (RAG) pipelines.
+- Integrated external APIs and custom tools with AI agents.
+- Implemented prompt engineering techniques for reliable AI responses.
+- Worked with document-based question answering systems.
+- Explored autonomous decision-making and multi-step reasoning.
+
+### 📜 Certification
+
+🏅 **Active Participant** – 5-Week International Internship on **AI Agents & Emerging Technologies**
+
+**Issued by:**
+- KIET Group of Institutions, Delhi-NCR
+- EST Global Inc., USA
+
+---
+
+> *Passionate about building autonomous AI systems that can reason, plan, use tools, and solve real-world problems.*
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Experienced-blue?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python)
+![LLMs](https://img.shields.io/badge/LLMs-AI-red?style=for-the-badge)
 
 
 # 📊 GitHub Analytics Dashboard
